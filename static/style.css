@@ -1,3 +1,44 @@
-h1 {
-     background-color: pink;
+#nav_links {
+	font-family: 'Megrim';
+	font-size: 25px;
+	margin: 0px;
+}
+
+#home_link {
+	font-family: 'Megrim';
+	font-size: 35px;
+	margin: 0px;
+}
+
+#about {
+	background-color: pink;
+	height: 500px;
+}
+
+#profile_pic {
+	max-height: 250px;
+	max-width: 400px;
+	border-radius: 5%;
+	margin-top: 100px;
+	margin-left: 60px;
+}
+
+#projects {
+	background-color: lavender;
+	height: 500px;
+}
+
+#academics {
+	background-color: pink;
+	height: 500px;
+}
+
+#art {
+	background-color: lavender;
+	height: 500px;
+}
+
+#contact {
+	background-color: pink;
+	height: 500px;
 }
