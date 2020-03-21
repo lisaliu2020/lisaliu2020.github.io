@@ -33,6 +33,10 @@ body {
 	padding-right: 10px;
 }
 
+#logo_holder {
+	text-align: center;
+}
+
 #type_box {
 	width: 200px;
 	margin-top: 15px;
