@@ -1,3 +1,4 @@
+/* body */
 body {
 	background-color: #2C2C2C;
 }
@@ -6,6 +7,7 @@ body {
 	background-color: #303030 !important;
 }
 
+/* navigation */
 #nav_links {
 	font-family: 'Megrim';
 	font-size: 25px;
@@ -19,13 +21,15 @@ body {
      color: black;
 }
 
+/* about */
 #about {
-	height: 500px;
+	min-height: 800px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
+/* about logos */
 #logos {
 	width: 23%;
 	padding-top: 8px;
@@ -37,6 +41,7 @@ body {
 	text-align: center;
 }
 
+/* type animation */
 #type_box {
 	width: 210px;
 	margin-top: 15px;
@@ -78,6 +83,7 @@ body {
 	50% { border-color: white }
 }
 
+/* about picture */
 #picture_box.col {
 	max-width: 425px;
 	padding-left: 0;
@@ -93,22 +99,19 @@ body {
 	margin-right: auto;
 }
 
+/* projects */
 #projects {
-	background-color: lavender;
 	height: 500px;
 }
 
-#academics {
+/* leadership */
+#leadership {
 	background-color: pink;
 	height: 500px;
 }
 
+/* my art */
 #art {
 	background-color: lavender;
-	height: 500px;
-}
-
-#contact {
-	background-color: pink;
 	height: 500px;
 }
