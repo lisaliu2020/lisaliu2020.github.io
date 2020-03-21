@@ -31,8 +31,8 @@
 	margin: 0 auto;
 	letter-spacing: .15em;
 	animation:
-		typing 2.5s steps(15, end),
-		blink-caret .5s step-end infinite;
+		typing 3s steps(15, end),
+		blink-caret .4s step-end infinite;
 }
 
 @keyframes typing {
