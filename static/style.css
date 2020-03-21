@@ -27,7 +27,7 @@
 	position: relative;
 	animation:
 		typing 3.5s steps(30, end),
-		blink-caret .85s infinite;
+		blink-caret .85s;
 }
 
 @keyframes typing {
@@ -36,13 +36,8 @@
 }
 
 @keyframes blink-caret {
-	from {
+	from,to {
 		border-color: transparent;
-		left: 0px;
-	}
-	to {
-		border-color: transparent;
-		left: 50px;
 	}
 	50% { border-color: black }
 }
