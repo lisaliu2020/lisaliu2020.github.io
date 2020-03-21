@@ -17,19 +17,19 @@
 }
 
 #type_box {
-	width: 320px;
+	width: 300px;
 }
 
 #about_p {
 	font-family: 'Inconsolata', monospace;
 	font-size: 35px;
 	overflow: hidden;
-	border-right: .15em solid black;
+	border-right: .10em solid black;
 	white-space: nowrap;
 	margin: 0 auto;
 	letter-spacing: .15em;
 	animation:
-		typing 3.5s steps(40, end),
+		typing 3.5s steps(30, end),
 		blink-caret .5s step-end infinite;
 }
 
