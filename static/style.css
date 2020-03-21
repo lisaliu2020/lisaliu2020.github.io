@@ -24,6 +24,10 @@
 	margin-bottom: 15px;
 }
 
+#small_box {
+	width: 210px;
+}
+
 #about_p {
 	font-family: 'Inconsolata', monospace;
 	font-size: 25px;
