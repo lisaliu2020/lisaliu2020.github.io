@@ -1,3 +1,7 @@
+.bg-dark {
+	background-color: #303030;
+}
+
 #nav_links {
 	font-family: 'Megrim';
 	font-size: 25px;
@@ -25,7 +29,7 @@
 }
 
 #small_box {
-	width: 210px;
+	flex-grow: 0;
 }
 
 #about_p {
@@ -55,8 +59,7 @@
 	max-height: 250px;
 	max-width: 400px;
 	border-radius: 5%;
-	margin-top: 90px;
-	margin-left: 60px;
+	margin-left: 20px;
 }
 
 #projects {
