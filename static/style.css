@@ -47,15 +47,16 @@ body {
 }
 
 #about_text {
-	font-family: 'Inconsolata', monospace;
+	font-family: monospace;
 	text-align: center;
 	color: white;
-	letter-spacing: .15em;
+	letter-spacing: .01em;
+	margin-bottom: 0;
 }
 
 #about_p {
-	font-family: 'Inconsolata', monospace;
-	font-size: 25px;
+	font-family: monospace;
+	font-size: 22px;
 	overflow: hidden;
 	border-right: .10em solid white;
 	white-space: nowrap;
