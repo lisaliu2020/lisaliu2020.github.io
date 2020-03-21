@@ -26,6 +26,11 @@ body {
 	padding-top: 115px;
 }
 
+#logos {
+	height: 50%;
+	width: 50%;
+}
+
 #type_box {
 	width: 200px;
 	margin-top: 15px;
