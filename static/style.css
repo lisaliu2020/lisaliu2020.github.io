@@ -14,6 +14,7 @@
 #about {
 	background-color: pink;
 	height: 500px;
+	display: flex;
 }
 
 #type_box {
