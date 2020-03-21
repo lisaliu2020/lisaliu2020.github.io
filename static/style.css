@@ -23,6 +23,7 @@ body {
 	height: 500px;
 	display: flex;
 	align-items: center;
+	justify-content: center;
 }
 
 #logos {
@@ -77,8 +78,10 @@ body {
 	50% { border-color: white }
 }
 
-#picture_box {
-	width: 100px;
+#picture_box.col {
+	max-width: 425px;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 #profile_pic {
