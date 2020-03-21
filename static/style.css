@@ -37,7 +37,6 @@
 @keyframes blink-caret {
 	from, to {
 		border-color: transparent;
-		transform: translateX(600px);
 	}
 	50% { border-color: black }
 }
