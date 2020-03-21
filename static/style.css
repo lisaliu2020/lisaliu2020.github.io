@@ -18,6 +18,8 @@
 
 #type_box {
 	width: 300px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 
 #about_p {
@@ -29,7 +31,7 @@
 	margin: 0 auto;
 	letter-spacing: .15em;
 	animation:
-		typing 3.5s steps(30, end),
+		typing 3.5s steps(15, end),
 		blink-caret .5s step-end infinite;
 }
 
