@@ -17,7 +17,7 @@
 }
 
 #about_p {
-	font-family: 'Inconsolata';
+	font-family: 'Inconsolata', monospace;
 	font-size: 35px;
 	overflow: hidden;
 	border-right: .15em solid black;
