@@ -46,6 +46,13 @@ body {
 	flex-grow: 0;
 }
 
+#about_text {
+	font-family: 'Inconsolata', monospace;
+	text-align: center;
+	color: white;
+	letter-spacing: .15em;
+}
+
 #about_p {
 	font-family: 'Inconsolata', monospace;
 	font-size: 25px;
