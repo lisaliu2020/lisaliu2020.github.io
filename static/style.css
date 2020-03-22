@@ -131,6 +131,7 @@ body {
 
 #project_box {
 	flex-grow: 0;
+	height: 0;
 }
 
 #projects_0 {
