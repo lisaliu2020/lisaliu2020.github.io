@@ -157,10 +157,12 @@ body {
 
 #project_logo {
 	width: 45px;
+	float: left;
 }
 
 #project_logo_box {
 	width: 40px;
+	float: left;
 }
 
 #project_text_box {
