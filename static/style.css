@@ -161,9 +161,16 @@ body {
 }
 
 /* leadership */
+#leadership_box {
+	height: 800px;
+}
+
 #leadership {
-	background-color: pink;
-	height: 500px;
+	text-align: center;
+}
+
+#lead {
+	font-size: 18px;
 }
 
 /* my art */
