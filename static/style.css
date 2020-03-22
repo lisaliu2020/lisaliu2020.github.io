@@ -103,6 +103,7 @@ body {
 #projects {
 	min-height: 800px;
 	min-width: 1280px;
+	display: flex;
 }
 
 #projects_text {
