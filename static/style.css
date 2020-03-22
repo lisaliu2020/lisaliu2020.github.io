@@ -106,23 +106,39 @@ body {
 	justify-content: center;
 }
 
-#projects_text {
+#projects_title {
 	font-family: monospace;
 	font-size: 22px;
+	text-align: center;
+	color: white;
+	letter-spacing: .01em;
+	margin-bottom: 10px;
+}
+
+#project_img {
+	height: 500px;
+	width: auto;
+	border-radius: 5%;
+}
+
+#project_p {
+	font-family: monospace;
 	text-align: center;
 	color: white;
 	letter-spacing: .01em;
 	margin-bottom: 0;
 }
 
-#project {
-	height: 500px;
-	width: auto;
-	border-radius: 5%;
-}
-
 #project_box {
 	flex-grow: 0;
+}
+
+#projects_0 {
+	display: flex;
+}
+
+#project_logo {
+	width: 10%;
 }
 
 /* leadership */
