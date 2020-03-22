@@ -157,11 +157,14 @@ body {
 
 #project_logo {
 	width: 45px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
-#project_logo_box {
+/* #project_logo_box {
 	text-align: center;
-}
+} */
 
 #project_text_box {
 	/* margin-left: 40px; */
