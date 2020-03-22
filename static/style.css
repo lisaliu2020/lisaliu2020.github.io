@@ -101,7 +101,21 @@ body {
 
 /* projects */
 #projects {
-	height: 500px;
+	min-height: 800px;
+}
+
+#projects_text {
+	font-family: monospace;
+	font-size: 22px;
+	text-align: center;
+	color: white;
+	letter-spacing: .01em;
+	margin-bottom: 0;
+}
+
+#dragon {
+	height: 400px;
+	width: 579px;
 }
 
 /* leadership */
