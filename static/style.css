@@ -115,6 +115,10 @@ body {
 	font-size: 18px;
 }
 
+#exp_0 {
+	margin: 0;
+}
+
 /* projects */
 #projects {
 	min-height: 800px;
