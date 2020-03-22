@@ -102,6 +102,7 @@ body {
 /* projects */
 #projects {
 	min-height: 800px;
+	min-width: 1280px;
 }
 
 #projects_text {
@@ -113,9 +114,9 @@ body {
 	margin-bottom: 0;
 }
 
-#dragon {
-	height: 400px;
-	width: 579px;
+#project {
+	height: 600px;
+	width: auto;
 }
 
 /* leadership */
