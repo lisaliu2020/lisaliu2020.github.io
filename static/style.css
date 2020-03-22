@@ -116,8 +116,9 @@ body {
 }
 
 #project {
-	height: 600px;
+	height: 570px;
 	width: auto;
+	border-radius: 5%;
 }
 
 #project_box {
