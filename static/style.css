@@ -139,7 +139,7 @@ body {
 }
 
 #project_logo {
-	width: 50px;
+	width: 45px;
 }
 
 #project_logo_box {
@@ -148,6 +148,7 @@ body {
 
 #project_text_box {
 	flex-basis: 18em;
+	margin-left: 10px;
 }
 
 /* leadership */
