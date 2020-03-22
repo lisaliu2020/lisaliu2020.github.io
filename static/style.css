@@ -123,7 +123,7 @@ body {
 
 #project_p {
 	font-family: monospace;
-	text-align: center;
+	/* text-align: center; */
 	color: white;
 	letter-spacing: .01em;
 	margin-bottom: 0;
@@ -135,18 +135,19 @@ body {
 
 #projects_0 {
 	display: flex;
+	align-items: center;
 }
 
 #project_logo {
-	width: 10%;
-}
-
-#project_logo_box {
 	width: 50px;
 }
 
+#project_logo_box {
+	width: 40px;
+}
+
 #project_text_box {
-	
+	flex-basis: 18em;
 }
 
 /* leadership */
