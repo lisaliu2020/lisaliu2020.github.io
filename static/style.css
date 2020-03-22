@@ -160,11 +160,11 @@ body {
 }
 
 #project_logo_box {
-	height: 0;
+	text-align: center;
 }
 
 #project_text_box {
-	margin-left: 40px;
+	/* margin-left: 40px; */
 	float: left;
 }
 
