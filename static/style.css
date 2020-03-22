@@ -157,17 +157,15 @@ body {
 
 #project_logo {
 	width: 45px;
-	float: left;
 }
 
 #project_logo_box {
-	width: 40px;
-	float: left;
+	height: 0;
 }
 
 #project_text_box {
-	flex-basis: 18em;
-	margin-left: 10px;
+	margin-left: 40px;
+	float: left;
 }
 
 /* leadership */
