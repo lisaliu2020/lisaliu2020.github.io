@@ -107,6 +107,10 @@ body {
 }
 
 /* experience */
+#experience {
+	min-height: 800px;
+}
+
 #experience_title {
 	text-align: center;
 }
@@ -116,7 +120,7 @@ body {
 }
 
 #exp_0 {
-	margin: 0;
+	margin-bottom: 3px;
 }
 
 /* projects */
