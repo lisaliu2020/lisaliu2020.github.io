@@ -13,6 +13,13 @@ body {
 	letter-spacing: .01em;
 }
 
+.title {
+	font-family: monospace;
+	font-size: 22px;
+	color: white;
+	letter-spacing: .01em;
+}
+
 /* navigation */
 #nav_links {
 	font-family: 'Megrim';
@@ -63,14 +70,11 @@ body {
 }
 
 #about_p {
-	font-family: monospace;
-	font-size: 22px;
 	overflow: hidden;
 	border-right: .10em solid white;
 	white-space: nowrap;
 	margin: 0 auto;
 	letter-spacing: .15em;
-	color: white;
 	animation:
 		typing 3s steps(15, end),
 		blink-caret .5s step-end infinite;
@@ -110,11 +114,7 @@ body {
 }
 
 #projects_title {
-	font-family: monospace;
-	font-size: 22px;
 	text-align: center;
-	color: white;
-	letter-spacing: .01em;
 	margin-bottom: 20px;
 }
 
