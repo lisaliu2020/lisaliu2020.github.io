@@ -113,6 +113,7 @@ body {
 
 #exp_box {
 	min-height: 800px;
+	display: flex;
 }
 
 #exp {
