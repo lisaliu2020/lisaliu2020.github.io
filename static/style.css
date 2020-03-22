@@ -138,11 +138,11 @@ body {
 #project_img {
 	height: 500px;
 	width: auto;
-	border-radius: 5%;
 }
 
 #project_p {
-	margin-bottom: 0;
+	margin-bottom: 10px;
+	text-align: center;
 }
 
 #project_box {
@@ -150,10 +150,10 @@ body {
 	height: 0;
 }
 
-#projects_0 {
+/* #projects_0 {
 	display: flex;
 	align-items: center;
-}
+} */
 
 #project_logo {
 	width: 45px;
@@ -162,14 +162,10 @@ body {
 	display: block;
 }
 
-/* #project_logo_box {
+/* #project_text_box {
 	text-align: center;
+	margin-bottom: 10px;
 } */
-
-#project_text_box {
-	/* margin-left: 40px; */
-	float: left;
-}
 
 /* leadership */
 #leadership {
