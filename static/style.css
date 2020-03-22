@@ -120,6 +120,10 @@ body {
 	width: auto;
 }
 
+#project_box {
+	flex-grow: 0;
+}
+
 /* leadership */
 #leadership {
 	background-color: pink;
