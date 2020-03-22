@@ -141,6 +141,14 @@ body {
 	width: 10%;
 }
 
+#project_logo_box {
+	width: 50px;
+}
+
+#project_text_box {
+	
+}
+
 /* leadership */
 #leadership {
 	background-color: pink;
