@@ -106,6 +106,15 @@ body {
 	margin-right: auto;
 }
 
+/* experience */
+#experience_title {
+	text-align: center;
+}
+
+#exp {
+	font-size: 18px;
+}
+
 /* projects */
 #projects {
 	min-height: 800px;
