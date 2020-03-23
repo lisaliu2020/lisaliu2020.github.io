@@ -21,6 +21,7 @@ body {
 }
 
 .updates {
+	text-align: center;
 	color: white;
 	font-family: 'Megrim';
 	font-size: 20px;
