@@ -20,6 +20,11 @@ body {
 	letter-spacing: .01em;
 }
 
+.updates {
+	font-family: 'Megrim';
+	font-size: 20px;
+}
+
 /* navigation */
 #nav_links {
 	font-family: 'Megrim';
