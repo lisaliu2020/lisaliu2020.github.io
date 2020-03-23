@@ -24,7 +24,7 @@ body {
 	text-align: center;
 	color: white;
 	font-family: 'Megrim';
-	font-size: 20px;
+	font-size: 45px;
 }
 
 /* navigation */
@@ -182,5 +182,5 @@ body {
 
 /* my art */
 #art {
-	height: 800px;
+	height: 200px;
 }
