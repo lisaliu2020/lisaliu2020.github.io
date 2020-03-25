@@ -29,14 +29,9 @@ body {
 
 /* navigation */
 #nav_links {
-	font-family: 'Muli', sans-serif;
-	font-size: 20px;
-	
-}
-.navbar{
-	position: sticky;
-	top: 0;
-	z-index: 2;
+	font-family: 'Megrim';
+	font-size: 25px;
+	margin: 0px;
 }
 
 #home_link {
@@ -48,7 +43,7 @@ body {
 
 /* about */
 #about {
-	height: 100vh;
+	min-height: 800px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -125,8 +120,7 @@ body {
 }
 
 #exp_box {
-	height: 100vh;
-	padding-top: 7vh;
+	min-height: 800px;
 }
 
 #exp {
@@ -145,18 +139,17 @@ body {
 }
 
 #proj {
-	height: 100vh;
-	padding-top: 7vh;
+	min-height: 800px;
 	display: flex;
 	justify-content: center;
 }
 
 #project_img {
-	/* height: 500px;
+	height: 500px;
 	width: auto;
 	margin-left: auto;
 	margin-right: auto;
-	display: block; */
+	display: block;
 }
 
 #project_p {
@@ -165,8 +158,7 @@ body {
 }
 
 #project_box {
-	padding-top: 7vh;
-	height: 100vh;
+	flex-grow: 0;
 }
 
 #project_logo {
@@ -179,8 +171,7 @@ body {
 
 /* leadership */
 #leadership_box {
-	height: 100vh;
-	padding-top: 7vh;
+	min-height: 800px;
 }
 
 #leadership {
