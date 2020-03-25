@@ -186,4 +186,5 @@ body {
 /* my art */
 #art {
 	min-height: 200px;
+	align-content: center;
 }
